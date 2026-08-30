@@ -6,6 +6,8 @@
 
 一个针对 ColorOS 的全方位体验增强模块，模拟 Flyme 体验，增加某 Tool 没有的、需要主动定制的功能和界面问题
 
+**请同时给 [Xposed 模块仓库](https://github.com/Xposed-Modules-Repo/com.rikumi.colorosmod) 一个 Star！**
+
 ## 免责声明
 
 - 本模块由 AI 辅助开发，虽然开发者具有专业开发经验和素质，但仅能保证在开发过程中**绝不包含人工恶意输入、不具有人工恶意行为**。
