@@ -13,7 +13,7 @@
 - 本模块由 AI 辅助开发，虽然开发者具有专业开发经验和素质，但仅能保证在开发过程中**绝不包含人工恶意输入、不具有人工恶意行为**。
 AI 产生的代码可能无法完全符合开发者预期，请在使用前自行确认。
 - 本项目源代码位于 https://github.com/rikumi/coloros-mod/ ，产生的未签名 Debug APK 构建理论可完全复现，欢迎使用前进行代码审查。
-- 本项目在 OPPO Find X8s 上进行测试，其它机型未进行充分测试，理论适配 ColorOS/OxygenOS/RealmeUI 的 Android 15 及以上版本。
+- 本项目在 OPPO Find X8s 上进行测试，其它机型未进行充分测试，理论适配 ColorOS/OxygenOS/RealmeUI 的 Android 16 版本。
 - **改机有风险，和其它模块一样，请勿在未备份的主力机上贸然使用。**
 
 ## 目前主要功能
